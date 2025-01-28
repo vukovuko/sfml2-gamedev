@@ -9,7 +9,7 @@ A simple **SFML-based game** built using C++20. This project includes **ImGui** 
 ### **1. Clone the Repository**  
 ```bash
 git clone https://github.com/vukovuko/sfml2-gamedev
-cd your-repo
+cd sfml2-gamedev
 sudo apt update && sudo apt install libsfml-dev
 make run
 ```
