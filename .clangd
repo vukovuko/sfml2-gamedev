@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - "-I/home/vuko/vuko/projects/Testiranje/sfml2/src/imgui"
+    - "-I/usr/include/SFML"
+
